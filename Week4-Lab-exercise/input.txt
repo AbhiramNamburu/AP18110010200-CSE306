@@ -1,0 +1,9 @@
+void main()
+{
+  int a;//10258
+  a<=6.7 != -3.2
+  b=.9
+  -8e+1 /* Vijay Kashyap Kompella
+*/
+  _end
+}
